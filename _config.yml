@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: "Luxurygreens"
-description: "A Coming Soon Template"
+description: "Grow Green"
 #if you modify locale please have a look at _data/messages.yml too
 locale: en
 #for meta name="author" :
@@ -10,16 +10,16 @@ author:	luxurygreens
 #Target date in UTC / GMT
 countdown:
   theme: red
-  year: 2020
-  month: 1
-  day: 1
+  year: 2018
+  month: 4
+  day: 27
   hour: 0
   minute: 0
 
 # Site owner
 owner:
-  name:
-  email:
+  name:	Luxurygreens
+  email: greensluxury@gmail.com
   twitter:
   google-plus:
   instagramm:
