@@ -9,7 +9,7 @@ locales:
     Hours: "Hours"
     Minutes: "Minutes"
     Seconds: "Seconds"
-    Learn_More: "Learn More"
+    Learn_More: "Know More About LuxuryGreens from our Facebook Page."
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
